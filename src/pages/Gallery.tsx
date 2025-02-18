@@ -19,6 +19,9 @@ const Gallery = () => {
     { id: 4, title: "Fantasy Character", category: "Action Figure", image: "/img/dummy.jpeg", description: "Mystical character design with elaborate costume" },
     { id: 5, title: "Fantasy", category: "Utensílios", image: "/img/mao.jpg", description: "Mystical character design with elaborate costume" },
     { id: 6, title: "Fantasy Character", category: "objetos", image: "/img/mao.jpg", description: "Mystical character design with elaborate costume" }
+    { id: 7, title: "Goku Pop ", category: "objetos", image: "/img/goku_pop.jpg", description: "Pop do Goku feito em PLA amarelo" },
+    { id: 8, title: "Vaso ", category: "objetos", image: "/img/vaso.jpg", description: "Vaso de planta feito em PLA preto com 18 CM" },
+    { id: 9, title: "Gogeta SSJ4 ", category: "objetos", image: "/img/gogeta ssj 4.jpg", description: "Busto do Gogeta SSJ4 feito em PLA branco com 18CM de altura" }
   ];
 
   const categories = ["all", "Action Figure", "Utensílios", "objetos"];
